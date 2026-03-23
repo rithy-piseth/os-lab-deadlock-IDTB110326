@@ -7,7 +7,7 @@ Screenshot:
 
 Explanation:
 The output shows /dev/loop50 and /dev/loop51 are successfully mounted at
-/media/g11-thoeun-yanit/4d148c68-c549-48ae-b183-357c64abe255 and /media/g11-thoeun-yanit/9b9e1049-9b4c-4082-8810-4908e3a61996
+/media/g11-rithy-piseth/4d148c68-c549-48ae-b183-357c64abe255 and /media/g11-rithy-piseth/9b9e1049-9b4c-4082-8810-4908e3a61996
 respectively. This proves both virtual disk images have been attached to loopback
 devices and recognized by the kernel as mounted file systems without root privileges.
 
